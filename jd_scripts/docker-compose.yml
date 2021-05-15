@@ -24,7 +24,7 @@ jd_scripts:
     #jd cookies
     # 例: JD_COOKIE=pt_key=XXX;pt_pin=XXX;
     # 例（多账号）: JD_COOKIE=pt_key=XXX;pt_pin=XXX;&pt_key=XXX;pt_pin=XXX;&pt_key=XXX;pt_pin=XXX;
-    -JD_COOKIE=pt_key=AAJgnU2sADAJ0OszWYHcY54ef89BVsOSJBop1C0ak3VDT-OWEz0qED0tXzYr-UOQyvz3ox0W60k;pt_pin=1396539283_m;&pt_key=AAJglOKtADAin6dtHB0HZ2LR4crDppUVmXBNCxyxfeKCsPTFVf0xne7w7wJi0NtrTcu8VfNtr6A;pt_pin=jd_4c548c28526c4;&pt_key=AAJglOH9ADCLlszv1MrCSCyH9JSWTPtrkUS5eq2aetXwuKbCtG6IgZWGwOCYnZoje0XhRegSxzQ;pt_pin=jd_eOfPCENDTtLJ;&pt_key=AAJglOCBADBUJjRqqaHdId7_0osIOoc0HHAqceO4uSeLRih1eHEHEDuWK543Typj_rOuXxXyGbA;pt_pin=jd_rTMWTlfeqnsH;
+    JD_COOKIE=pt_key=AAJgnU2sADAJ0OszWYHcY54ef89BVsOSJBop1C0ak3VDT-OWEz0qED0tXzYr-UOQyvz3ox0W60k;pt_pin=1396539283_m;&pt_key=AAJglOKtADAin6dtHB0HZ2LR4crDppUVmXBNCxyxfeKCsPTFVf0xne7w7wJi0NtrTcu8VfNtr6A;pt_pin=jd_4c548c28526c4;&pt_key=AAJglOH9ADCLlszv1MrCSCyH9JSWTPtrkUS5eq2aetXwuKbCtG6IgZWGwOCYnZoje0XhRegSxzQ;pt_pin=jd_eOfPCENDTtLJ;&pt_key=AAJglOCBADBUJjRqqaHdId7_0osIOoc0HHAqceO4uSeLRih1eHEHEDuWK543Typj_rOuXxXyGbA;pt_pin=jd_rTMWTlfeqnsH;
     - JD_COOKIE=SCT27732T4mhGM4BTMgwtc6G5BvM4dBRX
     #微信server酱通知
     - PUSH_KEY=
