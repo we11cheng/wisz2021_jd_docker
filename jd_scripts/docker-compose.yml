@@ -24,7 +24,7 @@ jd_scripts:
     #jd cookies
     # 例: JD_COOKIE=pt_key=XXX;pt_pin=XXX;
     # 例（多账号）: JD_COOKIE=pt_key=XXX;pt_pin=XXX;&pt_key=XXX;pt_pin=XXX;&pt_key=XXX;pt_pin=XXX;
-    - JD_COOKIE=pt_key=AAJgnU2sADAJ0OszWYHcY54ef89BVsOSJBop1C0ak3VDT-OWEz0qED0tXzYr-UOQyvz3ox0W60k;pt_pin=1396539283_m;&pt_key=AAJglOKtADAin6dtHB0HZ2LR4crDppUVmXBNCxyxfeKCsPTFVf0xne7w7wJi0NtrTcu8VfNtr6A;pt_pin=jd_4c548c28526c4;&pt_key=AAJglOH9ADCLlszv1MrCSCyH9JSWTPtrkUS5eq2aetXwuKbCtG6IgZWGwOCYnZoje0XhRegSxzQ;pt_pin=jd_eOfPCENDTtLJ;&pt_key=AAJglOCBADBUJjRqqaHdId7_0osIOoc0HHAqceO4uSeLRih1eHEHEDuWK543Typj_rOuXxXyGbA;pt_pin=jd_rTMWTlfeqnsH;&pt_key=AAJgqJHzADDCV-2cqAuoBSjCDHU3t54v_UrHDPYBUfdgvFLa7b8POMIDyjK0cbIVCNf7lEizOdY;pt_pin=jd_uksNrZhNVCND;&pt_key=AAJgrHvqADBySGc0YHazJE2OSfvUADMbGlyzHkcQuw1q_zOWqmyUhsCZIQR7J5H6PzUMh_KfBm4;pt_pin=jd_7f507f48d5222;
+    - JD_COOKIE=pt_key=AAJgnU2sADAJ0OszWYHcY54ef89BVsOSJBop1C0ak3VDT-OWEz0qED0tXzYr-UOQyvz3ox0W60k;pt_pin=1396539283_m;&pt_key=AAJglOKtADAin6dtHB0HZ2LR4crDppUVmXBNCxyxfeKCsPTFVf0xne7w7wJi0NtrTcu8VfNtr6A;pt_pin=jd_4c548c28526c4;&pt_key=AAJglOH9ADCLlszv1MrCSCyH9JSWTPtrkUS5eq2aetXwuKbCtG6IgZWGwOCYnZoje0XhRegSxzQ;pt_pin=jd_eOfPCENDTtLJ;&pt_key=AAJglOCBADBUJjRqqaHdId7_0osIOoc0HHAqceO4uSeLRih1eHEHEDuWK543Typj_rOuXxXyGbA;pt_pin=jd_rTMWTlfeqnsH;&pt_key=AAJgqJHzADDCV-2cqAuoBSjCDHU3t54v_UrHDPYBUfdgvFLa7b8POMIDyjK0cbIVCNf7lEizOdY;pt_pin=jd_uksNrZhNVCND;&pt_key=AAJgrHvqADBySGc0YHazJE2OSfvUADMbGlyzHkcQuw1q_zOWqmyUhsCZIQR7J5H6PzUMh_KfBm4;pt_pin=jd_7f507f48d5222;&pt_key=AAJgsdjrADBRfggNIalFy9nyfJeGENQwUho53Cb312QzFgTxU6cPoqJVl0eEg7tnKHorNaVb7pQ;pt_pin=jd_681fde9bc2bb6;&pt_key=AAJgsdQ6ADC_gp-GuBi9wiwz5lsqt9jm64iCkDt5EMD86yscvfIJqvr6AisRFTLn6xXc_Frnlaw;pt_pin=xk0829;
     #微信server酱通知
     - PUSH_KEY=SCT27732T4mhGM4BTMgwtc6G5BvM4dBRX
     #Bark App通知
