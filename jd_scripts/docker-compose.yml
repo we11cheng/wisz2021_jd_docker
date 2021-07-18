@@ -24,7 +24,7 @@ jd_scripts:
     #jd cookies
     # 例: JD_COOKIE=pt_key=XXX;pt_pin=XXX;
     # 例（多账号）: JD_COOKIE=pt_key=XXX;pt_pin=XXX;&pt_key=XXX;pt_pin=XXX;&pt_key=XXX;pt_pin=XXX;
-    - JD_COOKIE=pt_key=AAJgygM0ADBKetTM2t7xGWap9ovZ1OO_fiNDUPxVOvaHb_Di3BhE_RZsbL2QRKRKvdM9z2ii80Y;pt_pin=1396539283_m;&pt_key=AAJgyg31ADCBmZVNMuhDGAhcpE08aOytue1u_9AwHrfJ52RgdyNkGP-ql4oEaJcYf091rrv6hD4;pt_pin=jd_4c548c28526c4;&pt_key=AAJgygxkADAMELrbxALNSpsm4-k1QvmIKfgYM2kcB9yH7QBie01XsuViPFy8ev4tafTrbEGvZq0;pt_pin=jd_eOfPCENDTtLJ;&pt_key=AAJgygkXADAhNv6Bnv6KArhWkCWBdKSvMz8b7SjQc6ot5nlCoQqjU2vUVU2_1Gv3Gek1Jj3EuBw;pt_pin=jd_rTMWTlfeqnsH;&pt_key=AAJg2JubADCJIukpLaw3fu_QseG850HxC3xMAPQs_emaR3LbUDAP_Hyp6Owv0ZnFGCfdVniCqS8;pt_pin=jd_uksNrZhNVCND;&pt_key=AAJg1ZV8ADDo0UMJwugVhLKsQ8IZwa12qnS_wou7YhZ4S6ZbLTdTDV2aR7-Q34yIkWZb1IXWdG0;pt_pin=jd_7f507f48d5222;&pt_key=AAJgsdjrADBRfggNIalFy9nyfJeGENQwUho53Cb312QzFgTxU6cPoqJVl0eEg7tnKHorNaVb7pQ;pt_pin=jd_681fde9bc2bb6;&pt_key=AAJgsdQ6ADC_gp-GuBi9wiwz5lsqt9jm64iCkDt5EMD86yscvfIJqvr6AisRFTLn6xXc_Frnlaw;pt_pin=xk0829;&pt_key=AAJgtCfJADAbBvCAJR9G0DXop1Fx2L80Tuby76xMYbA_W3-RsAiIItwCtliriv99mkwFQhTGWJc;pt_pin=ljbljb007;&pt_key=AAJg5r_KADBvUEHqo7ZUEqkHi8vDTyQxuVBQwm8nRXJCs9fCOkBWs85qiHy36iyyuAtAmi5no8c;pt_pin=30899948-352518;&pt_key=AAJgtlJoADDPRUTxeZSrifnqq_hAo9IH33v_7buoysS1MTJGLjfBruhEmWeuIG2wk7iLgRfrgWY;pt_pin=jd_75701f2b1dbc5;&pt_key=AAJg5r_lADDMEIRNxi0SkpVTZuqInHEapTLIW0MTpxxe-27AY3eKBhbgLQ8j7m3Uuda2Nznd-ZM;pt_pin=jd_7cc4caf856eea;&pt_key=AAJgxYWxADCf3fBLnIvUl8pv0JiFWTrtwU598lHHQqBZ9EMdaf6-wc0T-L_mD0QjuW9qIkJxCy;pt_pin=SAK33;&pt_key=AAJgz05vADDmpn7dNleNkl-RYez19YBwLJsb_bxoFrvf27gAii6_JZANvaB2MdUI4oCcgzN6who;pt_pin=jd_EUJfCDCrJvLt;&pt_key=AAJgz08lADBj4Mn9kYlhPaYxdtZQ0I1wg1pPBC0IWbMHNMRNIhNAu4dvp_MyYgqt8S2G94FzppE;pt_pin=jd_76928c87af748;&pt_key=AAJg0L59ADDYXrPO0MfDn9AivEh4QuhA0fkIkZudyWrx5QaYpBnH0b_EO6Cn9PsSXUNUeK9FYKk;pt_pin=347169rboz7169;&pt_key=AAJgz08lADBj4Mn9kYlhPaYxdtZQ0I1wg1pPBC0IWbMHNMRNIhNAu4dvp_MyYgqt8S2G94FzppE;pt_pin=jd_76928c87af748;&pt_key=AAJg0sK7ADA5pB-EylQimWBNg1FZz5gEdo1sKnZyVteqns1IQf-g3xPh026mRsz6ywoiY8Wnq-c;pt_pin=jd_50e91a9000eec;&pt_key=AAJg5sPLADAlZcjX84yKxmiJzi94OogcizSWCzRrQacTst98UL4B1abJ0XdoIAdcYIxDhZag3tE;pt_pin=%E7%B4%A2%E5%8D%97_%E5%A4%9A%E5%A7%BF;
+    - JD_COOKIE=pt_key=AAJg8pujADAIDn6VuSlxXOL6sc1qu0OpsAFtlsQ_lF2d4dWXccxdcVb5O5Hdv4IHbXrpiDeFAF4;pt_pin=1396539283_m;&pt_key=AAJg9ASsADALtG5bJB1E-IfO-NcsXD8q6ZH5lHpPtFuNjryPV-cBaHpdcw37JaFAkAW64I5PddA;pt_pin=jd_4c548c28526c4;&pt_key=AAJgygxkADAMELrbxALNSpsm4-k1QvmIKfgYM2kcB9yH7QBie01XsuViPFy8ev4tafTrbEGvZq0;pt_pin=jd_eOfPCENDTtLJ;&pt_key=AAJg9AU9ADC1vASwdaFAmqWNwJlhzVCU-ZMppjYHTEOVGoeHtHrbkor-uvkwvE0-TPrZIETSkos;pt_pin=jd_rTMWTlfeqnsH;&pt_key=AAJg2JubADCJIukpLaw3fu_QseG850HxC3xMAPQs_emaR3LbUDAP_Hyp6Owv0ZnFGCfdVniCqS8;pt_pin=jd_uksNrZhNVCND;&pt_key=AAJg1ZV8ADDo0UMJwugVhLKsQ8IZwa12qnS_wou7YhZ4S6ZbLTdTDV2aR7-Q34yIkWZb1IXWdG0;pt_pin=jd_7f507f48d5222;&pt_key=AAJgsdjrADBRfggNIalFy9nyfJeGENQwUho53Cb312QzFgTxU6cPoqJVl0eEg7tnKHorNaVb7pQ;pt_pin=jd_681fde9bc2bb6;&pt_key=AAJgsdQ6ADC_gp-GuBi9wiwz5lsqt9jm64iCkDt5EMD86yscvfIJqvr6AisRFTLn6xXc_Frnlaw;pt_pin=xk0829;&pt_key=AAJgtCfJADAbBvCAJR9G0DXop1Fx2L80Tuby76xMYbA_W3-RsAiIItwCtliriv99mkwFQhTGWJc;pt_pin=ljbljb007;&pt_key=AAJg5r_KADBvUEHqo7ZUEqkHi8vDTyQxuVBQwm8nRXJCs9fCOkBWs85qiHy36iyyuAtAmi5no8c;pt_pin=30899948-352518;&pt_key=AAJgtlJoADDPRUTxeZSrifnqq_hAo9IH33v_7buoysS1MTJGLjfBruhEmWeuIG2wk7iLgRfrgWY;pt_pin=jd_75701f2b1dbc5;&pt_key=AAJg5r_lADDMEIRNxi0SkpVTZuqInHEapTLIW0MTpxxe-27AY3eKBhbgLQ8j7m3Uuda2Nznd-ZM;pt_pin=jd_7cc4caf856eea;&pt_key=AAJgxYWxADCf3fBLnIvUl8pv0JiFWTrtwU598lHHQqBZ9EMdaf6-wc0T-L_mD0QjuW9qIkJxCy;pt_pin=SAK33;&pt_key=AAJgz05vADDmpn7dNleNkl-RYez19YBwLJsb_bxoFrvf27gAii6_JZANvaB2MdUI4oCcgzN6who;pt_pin=jd_EUJfCDCrJvLt;&pt_key=AAJgz08lADBj4Mn9kYlhPaYxdtZQ0I1wg1pPBC0IWbMHNMRNIhNAu4dvp_MyYgqt8S2G94FzppE;pt_pin=jd_76928c87af748;&pt_key=AAJg0L59ADDYXrPO0MfDn9AivEh4QuhA0fkIkZudyWrx5QaYpBnH0b_EO6Cn9PsSXUNUeK9FYKk;pt_pin=347169rboz7169;&pt_key=AAJgz08lADBj4Mn9kYlhPaYxdtZQ0I1wg1pPBC0IWbMHNMRNIhNAu4dvp_MyYgqt8S2G94FzppE;pt_pin=jd_76928c87af748;&pt_key=AAJg0sK7ADA5pB-EylQimWBNg1FZz5gEdo1sKnZyVteqns1IQf-g3xPh026mRsz6ywoiY8Wnq-c;pt_pin=jd_50e91a9000eec;&pt_key=AAJg5sPLADAlZcjX84yKxmiJzi94OogcizSWCzRrQacTst98UL4B1abJ0XdoIAdcYIxDhZag3tE;pt_pin=%E7%B4%A2%E5%8D%97_%E5%A4%9A%E5%A7%BF;
     #微信server酱通知
     - PUSH_KEY=SCT27732T4mhGM4BTMgwtc6G5BvM4dBRX
     #Bark App通知
@@ -46,14 +46,14 @@ jd_scripts:
     # 例: PETSHARECODES=东东萌宠的互助码
     - PETSHARECODES=
     # 宠汪汪的喂食数量
-    - JOY_FEED_COUNT=50
+    - JOY_FEED_COUNT=
     #东东超市
     # - SUPERMARKET_SHARECODES=
     #兑换多少数量的京豆（20，或者1000京豆,或者其他奖品的文字）
     # 例: MARKET_COIN_TO_BEANS=1000
-    - MARKET_COIN_TO_BEANS=20
+    - MARKET_COIN_TO_BEANS=
 
     #如果设置了 RANDOM_DELAY_MAX ，则会启用随机延迟功能，延迟随机 0 到 RANDOM_DELAY_MAX-1 秒。如果不设置此项，则不使用延迟。
     #并不是所有的脚本都会被启用延迟，因为有一些脚本需要整点触发。延迟的目的有两个，1是降低抢占cpu资源几率，2是降低检查风险（主要是1）
     #填写数字，单位为秒，比如写为 RANDOM_DELAY_MAX=30  就是随机产生0到29之间的一个秒数，执行延迟的意思。
-    - RANDOM_DELAY_MAX=120
+    - RANDOM_DELAY_MAX=30
